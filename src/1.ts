@@ -15,7 +15,6 @@
 //     this.grade = grade;
 //   }
 // }
-
 // export {};
 
 class Student {
