@@ -28,7 +28,6 @@
 //     console.log(`Level up! New level is ${this.level}`);
 //   }
 // }
-
 // // тестування класу
 // const wizard = new Wizard('Merlin', 15);
 
